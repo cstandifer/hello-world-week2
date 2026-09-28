@@ -1,0 +1,10 @@
+Assignment 2:
+Json that was verified:
+{
+  "name": "Pikachu",
+  "height": "16 inches",
+  "category": "mouse",
+  "type": "electric",
+  "weakness": "ground",
+  "favorite food": "ketchup"
+}
